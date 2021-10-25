@@ -1,0 +1,28 @@
+$primary-blue: #07295F;
+$secondary-blue: #2d9124;
+$background-blue: #152F4F;
+$hover-blue: #4180CB;
+$background-white: #F3EFF5;
+
+body{
+    background: $background-white;
+    color: $secondary-blue;
+    
+    .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+        background-color: $secondary-blue !important;
+        border: none;
+        font-weight: 500;
+    }
+
+    h1{
+        color:black;
+    }
+    h2{
+        color:$secondary-blue;
+    }
+    
+
+}
+
+
+

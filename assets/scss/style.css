@@ -1,0 +1,19 @@
+body {
+  background: #F3EFF5;
+  color: #2d9124;
+}
+
+body .btn-primary, body .btn-primary:hover, body .btn-primary:active, body .btn-primary:visited {
+  background-color: #2d9124 !important;
+  border: none;
+  font-weight: 500;
+}
+
+body h1 {
+  color: black;
+}
+
+body h2 {
+  color: #2d9124;
+}
+/*# sourceMappingURL=style.css.map */
