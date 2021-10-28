@@ -1,6 +1,5 @@
 body {
-  background: #F3EFF5;
-  color: #2d9124;
+  color: #07295F;
 }
 
 body .btn-primary, body .btn-primary:hover, body .btn-primary:active, body .btn-primary:visited {
@@ -9,11 +8,12 @@ body .btn-primary, body .btn-primary:hover, body .btn-primary:active, body .btn-
   font-weight: 500;
 }
 
-body h1 {
-  color: black;
+body .container {
+  border-radius: 30px;
+  background-color: #F3EFF5;
 }
 
-body h2 {
-  color: #2d9124;
+body .container .container {
+  background-color: #4180CB;
 }
 /*# sourceMappingURL=style.css.map */

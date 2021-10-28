@@ -5,8 +5,7 @@ $hover-blue: #4180CB;
 $background-white: #F3EFF5;
 
 body{
-    background: $background-white;
-    color: $secondary-blue;
+    color: $primary-blue;
     
     .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
         background-color: $secondary-blue !important;
@@ -14,11 +13,12 @@ body{
         font-weight: 500;
     }
 
-    h1{
-        color:black;
-    }
-    h2{
-        color:$secondary-blue;
+    .container{
+        border-radius: 30px;
+        background-color: $background-white;
+        .container{
+            background-color: $hover-blue;
+        }
     }
     
 
