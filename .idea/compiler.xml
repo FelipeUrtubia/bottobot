@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="bottobot" target="6" />
+      <module name="bottobot" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
